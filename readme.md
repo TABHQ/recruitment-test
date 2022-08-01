@@ -1,4 +1,4 @@
-# TAB junior software engineer recruitment test
+# TAB recruitment test
 
 You have 1 hour to progress through the tasks below. Do not stress if you can't get all done, just work through it one by one and try your best.
 
